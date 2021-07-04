@@ -5,13 +5,13 @@
 
 #titulo{
     font-family: sans-serif;
-    color: #380B61;
+    color: #1e0b61;
     margin-left: 7%;
 }
 
 #subtitulo{
     font-family: sans-serif;
-    color: #380B61;
+    color: #1e0b61;
     margin-left: 10%;
 }
 
@@ -23,7 +23,7 @@ body{
     background-color: #F0F8FF;
     font-family: sans-serif;
     font-size: 1em;
-    color:#59429d;
+    color:#1e0b61;
     margin-left: 36%;
     margin-top: 2%;
     justify-content: center;
